@@ -5,6 +5,15 @@ body {
     padding: 0;
     background-color: #1c2324;
     color: #a59dd8;
+    align-items: center;
+    font-family: "Ubuntu", sans-serif;
+}
+
+main {
+    margin: 0;
+    padding: 0;
+    background-color: #1c2324;
+    color: #a59dd8;
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -14,13 +23,13 @@ body {
 
 header {
     width: 95%;
-    max-width: 680px;
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-between;
     padding: 12px;
     margin-top: 15px;
+    margin: 15px auto;
+    font-weight: bold;
 }
-
 
 .container {
     width: 91%;
@@ -78,13 +87,11 @@ a {
     padding: 0px;
 }
 
-.source {
-    width: 44px;
-    height: 44px;
+.source svg {
+    width: 38px;
+    height: 38px;
     max-width: 788px;
-    display: flex;
-    justify-content: flex-end;
-    padding: 12px;
+    padding: 0px;
     padding-right: 0px;
     padding-bottom: 0px;
 }
@@ -94,7 +101,8 @@ a {
     color: #ffffff;
 }
 
-.source:hover {
+.source svg:hover {
     transition: cubic-bezier(.07, 1.41, .82, 1.41) 0.2s;
     transform: scale(1.2);
 }
+
