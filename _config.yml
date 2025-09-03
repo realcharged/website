@@ -1,1 +1,13 @@
 title: "charged's Site"
+
+kramdown:
+  input: GFM
+  hard_wrap: true
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      permalink: "/blogs/:year-:month-:day-:title/"
+
