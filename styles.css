@@ -135,8 +135,10 @@ header a {
     border: 0.15em solid #a59dd8;     
     border-radius: 8px;        
     box-shadow: 0 4px 8px rgba(0,0,0,0.2); 
-    width: clamp(200px, 40%, 1000px);
+
+    max-height: 16em;
     max-width: 100%;
+    display: block;
 }
 
 .pc p {
