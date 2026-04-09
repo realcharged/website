@@ -37,7 +37,7 @@ Besides just licensing my own software, I wanted to try and switch the software 
 This was the first wave of the switch to OpenBSD. I plan to switch my Elitebook 2560p from Debian 13 to OpenBSD, and will report back on the ups and downs in a dedicated OpenBSD article I may write in the future. If all goes well, it could serve as the server hosting this site!
 
 ## The Desktop Plans...
-This is a tough hurdle to get over. My desktop PC is physically incapable of connecting to WiFi on OpenBSD as far as I know. I recently bought a used Lenovo ThinkPad T480, which is much more popular for OpenBSD. Right now I'm just testing the waters with my home server, and when the summer rolls around, I'll give the graphical experience a go. If the ThinkPad project is successful, I'll consider finding a workaround for the my desktop. 
+This is a tough hurdle to get over. My desktop PC is physically incapable of connecting to WiFi on OpenBSD as far as I know. I recently bought a used Lenovo ThinkPad T480, which is much more popular for OpenBSD. Right now I'm just testing the waters with my home server, and when the summer rolls around, I'll give the graphical experience a go. If the ThinkPad project is successful, I'll consider finding a workaround for my desktop. 
 
 I've currently been working toward this, I've been configuring some suckless utilities as well as other permissively licensed applications to easily integrate myself into OpenBSD when the time comes. Here's what I've been working on:
 * [dwm](https://codeberg.org/charged/dwm) - updating is probably my only concern here. Felt weird to be back on X11.

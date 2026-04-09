@@ -11,3 +11,4 @@ Website is hosted on GitHub pages, which isn't the greatest, I'm looking to swit
 - Icons have been removed to avoid licensing issues.
 - Licence has been changed: MIT --> ISC.
 - My custom patched font has replaced Ubuntu.
+- Inactive socials have been moved to smaller links at the bottom
