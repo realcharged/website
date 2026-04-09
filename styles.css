@@ -52,6 +52,11 @@ h1 {
     margin-bottom: 0;
 } 
 
+.pc h2 {
+    font-size: 22px;
+    margin-bottom: 0;
+}
+
 .container a {
     text-decoration: none;
     color: #a59dd8;
