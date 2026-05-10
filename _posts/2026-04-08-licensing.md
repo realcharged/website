@@ -2,6 +2,8 @@
 layout: post
 title: "TGFOE 2026: The Licensing Rabbit Hole"
 ---
+> # Note from 2026-05-10 
+> I've gone all in on a lot of the takes I have made here and transitioned into the public domain, using the Unlicense for most of my work. I still believe in what I said here, I have just decided to deal with the risks that a public domain dedication can bring.
 
 # Introduction
 It's been 2 months, and a lot has changed. I last wrote about my efforts to switch to free and open source software (FOSS) in general. I still believe in that idea, but I've found meaning within it. For the last month or so, I've been working on the switch to a freer, more permissively licensed ecosystem.
